@@ -21,7 +21,7 @@ Linking a Github repository to plunker is fairly simple and involves configuring
 To link to Github we configure the url by adding:
 
 
-      https://embed.plnkr.co/github/{profile-name}/{repository}/{branch} 
+`https://embed.plnkr.co/github/{profile-name}/{repository}/{branch}`
 
 `{branch}` can be replaced with `{tag|sha1}`  depending on how your repo is set up. If your repo is set up with an example in individual folders, you can add that `/path` to the embed url.
 
