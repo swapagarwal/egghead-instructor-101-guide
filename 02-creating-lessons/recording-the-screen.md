@@ -144,7 +144,7 @@ You can "kick it up a notch BAM!💥" and move into more sophisticated editing t
 
 * [John Lindquist doing some diting in Premiere](https://www.youtube.com/watch?v=_YqhKP-yZzo&index=1&list=PL219naRJXQKbQJ60WxsuGfTFv7_fvna51)
 * [JS Leonard walks through his process using Premiere](https://www.youtube.com/watch?v=faINApx4-4g&list=PL219naRJXQKbQJ60WxsuGfTFv7_fvna51&index=2)
-* [Joel Hooks does voice over and editing in Premiere](https://www.youtube.com/watch?v=faINApx4-4g&list=PL219naRJXQKbQJ60WxsuGfTFv7_fvna51&index=2)
+* [Joel Hooks does voice over and editing in Premiere](https://www.youtube.com/watch?v=QNFsYy6gCgU&list=PL219naRJXQKbQJ60WxsuGfTFv7_fvna51&index=4)
 
 This video will show you how you can record in "chunks":
 

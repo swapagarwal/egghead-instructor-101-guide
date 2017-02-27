@@ -62,7 +62,7 @@ Sound good to you?
 
 The one-off lessons is a **great** way to build your catalog, see a little revenue, and keep your screen-casting muscles strong in between courses.
 
-The expectation here is that you will create lessons that follow the egghead.io standards outlined in [the Instructor Guide](https://instructor.egghead.io). Give them good names, summaries, tags, and code samples. As control freaks, this is a big step for us 😂, but we trust you to publish your best. Feel free to [ask for feedback in the instructor channel on egghead.io Slack](https://eggheadio.slack.com/archives/egghead-instructors).
+The expectation here is that you will create lessons that follow the egghead.io standards outlined in [the Instructor Guide](../02-creating-lessons/ideas.md). Give them good names, summaries, tags, and code samples. As control freaks, this is a big step for us 😂, but we trust you to publish your best. Feel free to [ask for feedback in the instructor channel on egghead.io Slack](https://eggheadio.slack.com/archives/egghead-instructors).
 
 ![with great power](https://d3vv6lp55qjaqc.cloudfront.net/items/1X3d0U2x2I3Y060s1s0B/Image%202016-09-29%20at%204.44.02%20PM.gif?v=def0754b)
 
