@@ -77,7 +77,7 @@ The course summary is a paragraph or two that describes the course, goals, techn
 
 ### Lesson List
 
-Finally, we have the actual list of lessons that will be in the course. The list consists of **lesson titles and summaries** for each individual lesson. The title should follow [the "how do I..." format](/how-do-i), and the summary should summarize the goals and technology that the student will learn about in the lesson.
+Finally, we have the actual list of lessons that will be in the course. The list consists of **lesson titles and summaries** for each individual lesson. The title should follow [the "how do I..." format](../02-creating-lessons/ideas.html#a-strong-title-is-key), and the summary should summarize the goals and technology that the student will learn about in the lesson.
 
 ## The Examples
 

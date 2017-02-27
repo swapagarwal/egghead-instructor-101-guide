@@ -21,14 +21,14 @@ Linking a Github repository to plunker is fairly simple and involves configuring
 To link to Github we configure the url by adding:
 
 
-      `https://embed.plnkr.co/github/{profile-name}/{repository}/{branch}` 
+      https://embed.plnkr.co/github/{profile-name}/{repository}/{branch} 
 
 `{branch}` can be replaced with `{tag|sha1}`  depending on how your repo is set up. If your repo is set up with an example in individual folders, you can add that `/path` to the embed url.
 
 [Click here to see an example repo.](https://github.com/eggheadio-projects/nlp-in-javascript-with-natural) This is divided into a folder per lesson.
 
 
-https://d2mxuefqeaa7sj.cloudfront.net/s_8105448CE6BE7B09A22ECBB05188409410D34AA6CBCE3636EE692CDF03958981_1488045591787_file.png
+![](https://d2mxuefqeaa7sj.cloudfront.net/s_8105448CE6BE7B09A22ECBB05188409410D34AA6CBCE3636EE692CDF03958981_1488045591787_file.png)
 
 
 
@@ -80,12 +80,12 @@ This will give a *verbose* working example of the config file needed to achieve 
       </body>
     </html>
 
-You will then need to create an `app.js` ****file in the `src` directory `src/app.js` . This file will contain the code you want to run.
+You will then need to create an `app.js` file in the `src` directory `src/app.js` . This file will contain the code you want to run.
 Any packages that are installed using `jspm i npm:{package_you_want_to_install}` will create a `jspm_packages/npm/{package_you_want_to_install}@1.2.3.json` file.
  
 **Copy those contents.** 
 
-The content will be placed in your `SystemJS.config` ****under the `packages` property as the package you installed.
+The content will be placed in your `SystemJS.config` under the `packages` property as the package you installed.
 Eg:
 
     SystemJS.config({
@@ -114,7 +114,7 @@ Eg:
       }
     });
 
-**Jspm** will also give you a ****`jspm.config.js` file that we will want to copy with some slight modifications
+**Jspm** will also give you a `jspm.config.js` file that we will want to copy with some slight modifications
 
 
     SystemJS.config({
@@ -146,13 +146,13 @@ Eg:
 
 Note that the `"baseURL":` property was changed from `/` to a `.` 
  
-Also note that `"systemjs-babel-build": "npm:systemjs-plugin-babel/systemjs-babel-browser.js` **** line was added under the `map` ****property (nested in the `devConfig` property).
+Also note that `"systemjs-babel-build": "npm:systemjs-plugin-babel/systemjs-babel-browser.js` line was added under the `map` property (nested in the `devConfig` property).
 
 For plunker apps just add this script tag (in `index.html` ):
 `<script src="https://unpkg.com/systemjs@0.19.41/dist/system.src.js"></script>` 
-Then the two `SystemJS.config` ****objects can be added in their own script, and you should be good to go!
+Then the two `SystemJS.config` objects can be added in their own script, and you should be good to go!
 
-Shout out to @John L for the walkthrough on in-browser compiling. 🙌 
+Shout out to John Lindquist for the walkthrough on in-browser compiling. 🙌 
 
 Example for further clarity: 
 http://embed.plnkr.co/UxkIoIK9PEkaupwTInDE?show=script.js,preview

@@ -12,6 +12,7 @@ This is the gold! 💰
 
 Ask your mentor and read [this section](../02-creating-lessons/ideas.md) about figuring out the core concept for your first example.
 
+
 ### Where to stop?
 
 On the other side of the coin, we need to determine where to stop! Knowing where to stop is determined by the scope of the lesson you are trying to teach.
