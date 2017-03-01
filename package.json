@@ -7,12 +7,10 @@
     "node": ">=7.0.0"
   },
   "scripts": {
-    "start": "gitbook serve",
-    "build": "gitbook build"
+    "dev": "gitbook serve",
+    "build": "gitbook build",
+    "verify": "yarn build"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
   "dependencies": {
     "express": "^4.13.4",
     "gitbook-cli": "^2.3.0",
@@ -21,5 +19,3 @@
     "gitbook-plugin-prism": "^1.0.0"
   }
 }
-
-
