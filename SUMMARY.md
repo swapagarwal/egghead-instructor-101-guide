@@ -19,5 +19,7 @@
   * [Recording and Editing Screencasts](04-Screencasting-Technical-Guide/02-Recording-and-Editing-Screencasts.md)
   * [Audio Gear Setup](04-Screencasting-Technical-Guide/03-Audio-Gear-Setup.md)
   * [Code Sharing and Setup](04-Screencasting-Technical-Guide/04-Code-Sharing-and-Setup.md)
-
+* [Appendix]()
+  * [egghead Slack Channels](99-Appendix/egghead-Slack-Channels.md)
+  * [egghead Contributor Agreement](99-Appendix/egghead-contributor-agreement.md)
 
