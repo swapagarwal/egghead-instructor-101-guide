@@ -18,7 +18,7 @@ This is a fair statement, but we are going to consider an alternative approach. 
 A course will include:
 
 - a list of all the other lessons in the course
-- a robust summary that can include links to pre-requisites and otehr resources
+- a robust summary that can include links to pre-requisites and other resources
 - course notes in the form of a gitbook the community can build together
 - an "enhanced transcript" that assembles all of the transcripts for a course into a usable document that allows the user to read the entire course as a book
 - the code is provided with each lesson representing its current state and has a readme describing how to execute the code if it isn't in a Plunker
