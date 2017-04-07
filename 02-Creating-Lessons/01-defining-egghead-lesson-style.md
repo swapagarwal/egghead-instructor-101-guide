@@ -56,6 +56,22 @@ For some topics, it is hard to explain them without the context of a course. We 
 
 If you're recording a stand-alone lesson, find the core concept and stick to it.
 
+## The “Show Your Work” Challenge
+As you’re putting a lesson together, a million different ideas will enter your mind. You might be afraid of leaving anything out because you don’t want to disappoint your audience.
+
+_But here’s the problem…_
+
+Too many ideas into a single lesson inevitably means that you’re glossing over concepts. If you simply mention “condition X could crash your app” because you want to “cover your bases”, but you don’t take any time to show the concept, all you’ve actually done is scared the poop out of the audience without giving them any solution.
+
+_And here’s the solution…_
+
+Show your work! You’ve probably heard this from high school when your math teacher forced you to write out the steps to the solution to get full credit for the answer. The simple act of typing something out, highlighting a block with your mouse, or logging something in the console makes concepts infinitely more approachable. If a user sees you walk through the steps, then they gain confidence that they can do it too. If they only hear you talking about concepts, you quickly lose their attention.
+
+_The challenge…_
+
+Turn off your audio and watch your lesson without sound. It should be obvious from the visuals what you’re teaching. You may notice periods of 5+ seconds where nothing is happening. “Nothing” usually means you’re getting off-topic and thought it would be tough to “show” what you’re talking about. When you catch a section of “nothing”, write down the topic you weren’t showing and save it for another lesson! Separating lessons like this brings a natural focus and flow to each lesson. You’ll surprise yourself how quickly that one lesson with a lot of tangents turns into a coherent course as a series of focused lessons.
+
+
 # Three Pillars of egghead
 ## Respect the audience
 
@@ -89,4 +105,7 @@ Your first lesson will probably stink. It's a fact, and it is totally fine. Send
 Your time is **valuable** too. Don't waste it trying to figure everything out on your own. You've got your mentor, the egghead team, and dozens of fellow instructors willing and able to help you achieve success.
 
 We are here to help, and happy to do it!
+
+
+
 
