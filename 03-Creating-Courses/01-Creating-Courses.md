@@ -38,7 +38,7 @@ egghead courses have several styles. The most important aspects of a course are 
 - **???**: You're smart and creative, and definitely not limited to any of the above. If you've got an idea, let's hear it!
 ## **The Course Proposal**
 
-For every egghead course we request (and require) a written proposal before the course starts production. We ask for proposals for several reasons. To make sure a course is solid, and delivers a ton of value to your students making the proposal lets us think more deeply about the content and structure of the course. This approach allows us to define the intent of the course, as well as craft [great titles](https://github.com/eggheadio/egghead-instructor-101-guide/blob/master/02-creating-lessons/ideas.md) for the course and its lessons.
+For every egghead course we request (and require) a written proposal before the course starts production. We ask for proposals for several reasons. To make sure a course is solid, and delivers a ton of value to your students making the proposal lets us think more deeply about the content and structure of the course. This approach allows us to define the intent of the course, as well as craft [great titles](https://instructor.egghead.io/guide/01-Getting-Started-as-an-egghead-Instructor/03-thinking-about-lesson-titles.html) for the course and its lessons.
 
 [Here is an example of a course proposal](https://docs.google.com/document/d/1goXtI_zmSfXTgaimrxIss356DoedPRt5MMAySs1f-bE/edit), and here's [a blank template](https://docs.google.com/document/d/1x5_UehD9mM2jeCtlqEZFy3epDLLmbgBBGCow5fDRNCc/edit#) for you to use.
 
