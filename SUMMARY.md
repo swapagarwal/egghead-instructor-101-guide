@@ -7,6 +7,7 @@
   * [Publish Your First egghead Lesson](01-Getting-Started-as-an-egghead-Instructor/02-Publish-your-first-egghead-lesson.md)
   * [Thinking About Lesson Titles](01-Getting-Started-as-an-egghead-Instructor/03-thinking-about-lesson-titles.md)
   * [Getting Paid for Your Lessons](01-Getting-Started-as-an-egghead-Instructor/04-getting-paid-for-your-lessons.md)
+  * [egghead's Publishing Schedule](01-Getting-Started-as-an-egghead-Instructor/05-egghead-Publication-Schedule.md)
 * [Creating Lessons]()
   * [Defining egghead Lesson Style](02-Creating-Lessons/01-defining-egghead-lesson-style.md)
   * [egghead Lessons Have Context](02-Creating-Lessons/02-egghead-lessons-have-context.md)
