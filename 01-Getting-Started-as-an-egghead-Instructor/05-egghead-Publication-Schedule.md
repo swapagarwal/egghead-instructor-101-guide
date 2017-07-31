@@ -36,7 +36,7 @@ Once the artwork is complete, you can usually expect your course to be released 
 ![](https://d2mxuefqeaa7sj.cloudfront.net/s_E2A1DF22A620F29D475C4C0A54ED7AF3F8E8A6424FBD2F11C59C405DCBD9FC1A_1491949513597_file.png)
 
 
-Finally, each course gets a thoughtful email written about its content. During this process, we make a 'click here to tweet' link in the email enabling users to easily tweet about the course. This involves uploading your course image to twitter to easily access it. Expect to be @mentioned by our egghead Images twitter account leading up to the release of the course. Once that is ready the course is published, 250,000 humans are emailed, and announcements get made on Twitter/Facebook.
+Finally, each course gets a thoughtful email written about its content. During this process, we make a 'click here to tweet' link in the email enabling users to easily tweet about the course. This involves uploading your course image to twitter for easy access. Expect to be @mentioned by our egghead Course Images account leading up to the release of the course. Once that is ready the course is published, 250,000 humans are emailed, and announcements get made on Twitter/Facebook.
 
 Typically we’ve released 1 course per week, but sometimes we will release more depending on the current queue and level of completion.
 
