@@ -109,7 +109,7 @@ We are here to help, and happy to do it!
 ## Feeling Stuck?
 
 What does an artist recommend when staring at a blank page?
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8hcZDNH3_Wc?start=578" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8hcZDNH3_Wc?start=578&end=653" frameborder="0" allowfullscreen></iframe>
 
 If you find yourself staring at the screen unsure of how to even start then open Screenflow, press record, 
 and just start talking out loud about your lesson. Recording something, _anything_, will kickstart the process
