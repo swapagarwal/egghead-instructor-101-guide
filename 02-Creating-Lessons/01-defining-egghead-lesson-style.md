@@ -97,7 +97,6 @@ Another example is when a tough Google search lands you on a Stack Overflow ques
 You can **be that hero** to somebody else with your thorough, honest answer!
 
 ## Do the Work
-
 The number one key to success in teaching people to code better via screencasts is simply **hitting the f'n record button** and explaining the thing. It can be uncomfortable at first. It can even feel a lot like stage fright, but the sooner you start recording, the sooner we will be pushing the "publish" button on your first egghead course.
 
 Your first lesson will probably stink. It's a fact, and it is totally fine. Send it to your mentor for feedback, and they will get you on track.
@@ -105,6 +104,17 @@ Your first lesson will probably stink. It's a fact, and it is totally fine. Send
 Your time is **valuable** too. Don't waste it trying to figure everything out on your own. You've got your mentor, the egghead team, and dozens of fellow instructors willing and able to help you achieve success.
 
 We are here to help, and happy to do it!
+
+
+## Feeling Stuck?
+
+What does an artist recommend when staring at a blank page?
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8hcZDNH3_Wc?start=578" frameborder="0" allowfullscreen></iframe>
+
+If you find yourself staring at the screen unsure of how to even start then open Screenflow, press record, 
+and just start talking out loud about your lesson. Recording something, _anything_, will kickstart the process
+and help you relax and talking out loud (["rubber ducking" 🐥](https://en.wikipedia.org/wiki/Rubber_duck_debugging))
+often helps your brain leapfrog to the solution.
 
 
 
