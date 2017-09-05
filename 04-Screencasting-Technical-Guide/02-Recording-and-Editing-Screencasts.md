@@ -8,13 +8,12 @@ For video capture, on a Mac we can use ScreenFlow, Camtasia, or IShowU HD. On Wi
 The decision on which software you use is up to you. Many instructors prefer the standalone simplicity of ScreenFlow.
 
 
-- [Trevor D. Miller showing how he uses ScreenFlow in his process.](https://www.youtube.com/watch?list=PL219naRJXQKbQJ60WxsuGfTFv7_fvna51&v=9R2nl2wtB_4)
 - [Joe Maddalone takes a look at editing in Screenflow](https://www.youtube.com/watch?v=3nlJ_wP9dPE&index=5&list=PL219naRJXQKbQJ60WxsuGfTFv7_fvna51)
 
 You can "kick it up a notch BAM!💥" and move into more sophisticated editing technology with software like Adobe Premiere. Premiere provides some significant advantages, but it also has a steep learning curve. We would recommend starting simple, and leveling-up to a non-linear editing system like Premiere later.
 
 
-- [John Lindquist doing some diting in Premiere](https://www.youtube.com/watch?v=_YqhKP-yZzo&index=1&list=PL219naRJXQKbQJ60WxsuGfTFv7_fvna51)
+- [John Lindquist doing some editing in Premiere](https://www.youtube.com/watch?v=_YqhKP-yZzo&index=1&list=PL219naRJXQKbQJ60WxsuGfTFv7_fvna51)
 - [JS Leonard walks through his process using Premiere](https://www.youtube.com/watch?v=faINApx4-4g&list=PL219naRJXQKbQJ60WxsuGfTFv7_fvna51&index=2)
 - [Joel Hooks does voice over and editing in Premiere](https://www.youtube.com/watch?v=faINApx4-4g&list=PL219naRJXQKbQJ60WxsuGfTFv7_fvna51&index=2)
 # Capturing Audio Separately
