@@ -38,7 +38,7 @@ Editing is a skill. It takes time to become proficient, and it can be tedious un
 
 This egghead lesson will show you how you can can edit with ripple delete:
 
-[![ripple delete screenshot](../../images/screenshots/ripple-delete-edit.png)](https://egghead.io/lessons/tools-edit-with-ripple-delete?play=true)
+[![ripple delete screenshot](../images/screenshots/ripple-delete-edit.png)](https://egghead.io/lessons/tools-edit-with-ripple-delete?play=true)
 
 If there is one tool you will use forever when editing video it's ripple delete.
 
@@ -56,7 +56,7 @@ You want to avoid a situation where you are doing intense editing to move audio 
 
 Here’s an egghead lesson that will show you how you can record one thought at a time:
 
-[![chunk recording screenshot](../../images/screenshots/record-in-chunks.png)](https://egghead.io/lessons/tools-record-one-thought-at-a-time?play=true)
+[![chunk recording screenshot](../images/screenshots/record-in-chunks.png)](https://egghead.io/lessons/tools-record-one-thought-at-a-time?play=true)
 
 
 You do want to go back and make sure you edit out mouth noises and excessive "um"s. If you find yourself having to edit these out, it might take some pre-thought to avoid including them in the first place.
