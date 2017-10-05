@@ -21,7 +21,6 @@ This video will show you how to remove distractions for recording:
 - 1280x720 (720p)
 - 16:9 Aspect Ratio
 - Stereo audio
-- 
 
 We deliver content at 720p (1280x720 in pixels). We want this to be a crisp and legible output for the user. We want egghead.io lessons to present well when expanded fullscreen on a 65" TV screen or watched on the bus on a phone.
 
