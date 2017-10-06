@@ -65,7 +65,4 @@ Once your gear is set up, you'll need to check the audio input levels to make su
 
 This egghead lesson will show you how to check your audio input levels:
 
-[![Recording Screen](../../images/screenshots/recording-screen-prep.png)](https://egghead.io/lessons/tools-prepare-to-record-screen-resolution-and-mic-check?play=true)
-
-
-
+[![Recording Screen](../images/screenshots/recording-screen-prep.png)](https://egghead.io/lessons/tools-prepare-to-record-screen-resolution-and-mic-check?play=true)

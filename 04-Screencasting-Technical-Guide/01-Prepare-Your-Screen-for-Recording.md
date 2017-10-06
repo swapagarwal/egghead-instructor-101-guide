@@ -15,7 +15,7 @@ Small fonts, blurry text, and low-contrast color schemes all distract and distra
 
 This video will show you how to remove distractions for recording:
 
-[![Remove distractions](../../images/screenshots/remove-distractions.png)](https://egghead.io/lessons/tools-remove-distractions?play=true)
+[![Remove distractions](../images/screenshots/remove-distractions.png)](https://egghead.io/lessons/tools-remove-distractions?play=true)
 
 # Screen Resolution
 - 1280x720 (720p)
@@ -26,7 +26,7 @@ We deliver content at 720p (1280x720 in pixels). We want this to be a crisp and 
 
 This video shows you how to prepare the screen and mic to do just that:
 
-[![Recording Screen](../../images/screenshots/recording-screen-prep.png)](https://egghead.io/lessons/tools-prepare-to-record-screen-resolution-and-mic-check?play=true)
+[![Recording Screen](../images/screenshots/recording-screen-prep.png)](https://egghead.io/lessons/tools-prepare-to-record-screen-resolution-and-mic-check?play=true)
 
 ⚡️ **For best results, we use HiDPI mode on our monitors.**
 
@@ -103,7 +103,7 @@ Now that the screen is ready to record, we will look at how to do that on your p
 
 If you will be showing your command line, we suggest using a minimal prompt to reduce distractions. Here is an example of a minimal prompt that works well for screencasting:
 
-![prompt example](../../images/screenshots/example-command-line-prompt.png)
+![prompt example](../images/screenshots/example-command-line-prompt.png)
 
 
 You can use this one by updating your `~/.bashrc` or `~/.zshrc` with the following:
