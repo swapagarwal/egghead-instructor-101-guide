@@ -20,14 +20,6 @@ This kit is minimal, and comes packed in a waterproof Pelican case. The case con
 - Badass by Kathy Sierra
 - 
 
-This setup has 2 cables and a couple of knobs to get setup.
-
-This egghead lesson will show you how to set up your gear:
-https://egghead.io/lessons/tools-setup-egghead-audio-gear-to-record-lessons
-
-https://github.com/eggheadio/egghead-instructor-101-guide/raw/master/images/screenshots/gear.png
-
-
 We will go through each piece individually and discuss what it is and why it is in the box.
 
 
@@ -73,7 +65,4 @@ Once your gear is set up, you'll need to check the audio input levels to make su
 
 This egghead lesson will show you how to check your audio input levels:
 
-[![level check lesson screenshot](https://github.com/eggheadio/egghead-instructor-101-guide/raw/master/images/screenshots/audio-input-levels.png)](https://egghead.io/lessons/tools-verify-my-gear-is-properly-set-up)
-
-
-
+[![Recording Screen](../images/screenshots/recording-screen-prep.png)](https://egghead.io/lessons/tools-prepare-to-record-screen-resolution-and-mic-check?play=true)

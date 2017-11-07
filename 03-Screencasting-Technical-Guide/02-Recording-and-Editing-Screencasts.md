@@ -38,8 +38,7 @@ Editing is a skill. It takes time to become proficient, and it can be tedious un
 
 This egghead lesson will show you how you can can edit with ripple delete:
 
-[![ripple delete screenshot](https://github.com/eggheadio/egghead-instructor-101-guide/raw/master/images/screenshots/editing.png)](https://egghead.io/lessons/tools-edit-a-screencast-for-publication)
-
+[![ripple delete screenshot](../images/screenshots/ripple-delete-edit.png)](https://egghead.io/lessons/tools-edit-with-ripple-delete?play=true)
 
 If there is one tool you will use forever when editing video it's ripple delete.
 
@@ -55,9 +54,9 @@ This recording in small pieces and pausing is effectively editing while you reco
 
 You want to avoid a situation where you are doing intense editing to move audio and video snippets around to build a quilt like final product. **This** is the most tedious thing you could do to yourself, so by recording in small paragraph bites, you can get better takes, and by pausing in between each section, you can see visibly where you need to **ripple delete** and build your final product with minimal aggravation!
 
-Here’s an egghead lesson that will show you how you can record in "chunks":
+Here’s an egghead lesson that will show you how you can record one thought at a time:
 
-[![chunk recording screenshot](https://github.com/eggheadio/egghead-instructor-101-guide/raw/master/images/screenshots/recording-in-chunks.png)](https://egghead.io/lessons/tools-capture-video-and-audio-in-bite-sized-chunks)
+[![chunk recording screenshot](../images/screenshots/record-in-chunks.png)](https://egghead.io/lessons/tools-record-one-thought-at-a-time?play=true)
 
 
 You do want to go back and make sure you edit out mouth noises and excessive "um"s. If you find yourself having to edit these out, it might take some pre-thought to avoid including them in the first place.
