@@ -1,4 +1,8 @@
 # Creating Courses
+
+* [Example Course Proposal](https://docs.google.com/document/d/1goXtI_zmSfXTgaimrxIss356DoedPRt5MMAySs1f-bE/edit)
+* [Course Proposal Template](https://docs.google.com/document/d/1x5_UehD9mM2jeCtlqEZFy3epDLLmbgBBGCow5fDRNCc/edit#)
+
 Courses are what people truly love to watch. Humans desire information in chunks. They want to learn a topic in depth, but at a pace that works for them.
 For egghead, courses are the natural extension of the individual lesson. A course is a composed set of bite-sized lessons. The course itself should be bite-sized, covering a single topic in depth through a sequence of individual lessons.
 

@@ -20,23 +20,45 @@ Three things that clearly let us know the strength of a lesson, before any video
 - The example
 
 
-## Coming up with a great title
+# How Do I Find a Great Lesson Title?
+The first challenge for any bite-sized lesson is coming up with a topic. If you feel stuck, here a few things to think about:
 
-The first thing you need to do is consider the topic that you want to teach. It's important to keep in mind what an egghead lesson is.
+Is there a new library or utility that's piqued your interest? Did you finally solve that head-scratching (or keyboard-smashing) problem? Maybe you've seen something useful on StackOverflow?
 
-Concise.
+It is essential that you understand what you are about to teach. 
 
-We strive to teach one thing very clearly in a short amount of time.
+**Giving your lesson a solid title and summary before you hit record makes your life much easier,** and in turn makes your content more useful and meaningful to the thousands of developers who will watch it.
 
-**How do I...?**
+Let's walk through an example of the thought process behind a lesson title and summary:
 
-A great trick to creating a strong title is to say "How do I...?" in your head and then write the title.
+“I've been working with React a lot lately. Something interesting about React components are their lifecycle methods that each fire at particular times."
 
-[how do I...] Debug Angular Applications with Chrome DevTools
+You might quickly think of something like this for a title:
 
-This clearly defines the scope of the lesson, and also informs the student as to what they will be watching. If you consider google and Stack Overflow (and you should!), this is how people use those tools. We type keywords related to some "how do I...?" question into Google, and (hopefully) find enlightenment with the results.
 
-You definitely want your lesson to show up in the results!
+> React Component Lifecycle Methods
+
+This is a tempting title!
+
+It's too broad for a bite-sized lesson. Let's think about it a bit more and see about narrowing the topic down:
+
+"Reading about lifecycle methods in the React docs, I've noticed that `componentWillReceiveProps` isn't as clear as some of the others."
+
+Now we have a target! Continuing to drill down on `componentWillReceiveProps`, we can write a quick summary of what the viewer can expect:
+
+
+> In this lesson you will learn how to dynamically update a React component's state based on the properties that are passed into it. We will take a look at the React component `componentWillReceiveProps` lifecycle method, and how to use it effectively.
+
+Here's a trick to coming up with a good title: In your head say "How do I...", and then summarize your summary. 
+
+You wouldn't say "How do I... React Component Lifecycle Methods: componentWillReceiveProps", but instead something like "How do I... Use componentWillReceiveProps to Manage React Component State".
+
+
+>  Use componentWillReceiveProps to Manage React Component State
+
+This title and summary read well, and **give a viewer a good idea of what to expect from the lesson**. People watch screencasts to *solve specific problems and learn specific things*, and good descriptions help them find the answers you provide.
+
+
 
 ## Clearly summarize the lessons
 
