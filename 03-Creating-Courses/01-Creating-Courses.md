@@ -33,7 +33,7 @@ egghead courses have several styles. The most important aspects of a course are 
 
 
 - **Documentation**: This is straight forward presentation of the documentation for a library, framework, or tool. Dan Abramov's [popular course on Redux is a good example of this](https://egghead.io/courses/getting-started-with-redux). This doesn't mean you should simply read the docs to the student. Instead take the docs and present them with high quality examples.
-- **Project Based**: Another favorite is a project based approach. In this case we start with a project that the student will build from start to finish. John Lindquist has [done this with his Time Machine example app](https://egghead.io/courses/building-a-time-machine-with-angular-2-and-rxjs) using Angualr 2 and ngrx/store.
+- **Project Based**: Another favorite is a project based approach. In this case we start with a project that the student will build from start to finish. John Lindquist has [done this with his Time Machine example app](https://egghead.io/courses/building-a-time-machine-with-angular-2-and-rxjs) using Angular and ngrx/store.
 - **Cookbook**: You can also present a series of problems and solutions in the "cookbook" style. A typical recipe will include some common (or maybe not so common) problem, and then provide an example solution for the problem using the tool the cookbook is discussing. Trevor D. Miller's [React Testing Cookbook](https://egghead.io/courses/react-testing-cookbook) is a solid example of this approach.
 - **???**: You're smart and creative, and definitely not limited to any of the above. If you've got an idea, let's hear it!
 ## **The Course Proposal**
