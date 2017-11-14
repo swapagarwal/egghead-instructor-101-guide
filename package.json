@@ -8,7 +8,7 @@
   },
   "scripts": {
     "dev": "gitbook serve",
-    "build": "gitbook build",
+    "build": "gitbook install && gitbook build",
     "verify": "yarn build"
   },
   "dependencies": {
