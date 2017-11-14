@@ -1,6 +1,12 @@
 {
   "title": "egghead.io Instructor 101",
-  "description": "This guide will help you on your journey to teaching on egghead.io.",
-  "plugins" : ["advanced-emoji", "prism", "-highlight", "hints"]
+  "description":
+    "This guide will help you on your journey to teaching on egghead.io.",
+  "plugins": [
+    "advanced-emoji",
+    "prism",
+    "-highlight",
+    "hints",
+    "anchorjs"
+  ]
 }
-
