@@ -14,8 +14,6 @@ This is the basic algorithm as it exists in Ruby.
 
 It can range from "lunch money" to "paying the bills!", and varies mostly based on your catalog of lessons. Producing courses takes the most effort, but they also make the most money for instructors.
 
-egghead pays all published instructors a minimum of $50 every month.
-
 In general we favor the approach of making interesting and useful content versus min/maxing the numbers to squeeze the most dollars out of the content. We don't produce sponsored content or run ads on a regular basis.
 
 ## Make more money teaching on egghead.io
