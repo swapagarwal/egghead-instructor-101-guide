@@ -86,6 +86,16 @@ With the prep you've done above, a lot of the hard work is done for creating a c
 
 If you haven't, we recommend you read the section on creating lessons to get more details on recording screencasts. A course is a series of lessons, recorded one by one. It's like stacking bricks.
 
+## **Lesson-00 Course Overview**
+
+The course is recorded as per the course proposal, what next?
+
+Students want to have courses summarized with descriptions of what they will learn, and why they should care. 
+
+To answer this, we are adding introductions to courses. The introduction should set expectations for what will be learned throughout the course and offer encouragement and let students know they "got this." 
+
+As you have already defined a user story and goals for the course, you have a great starting point for the introduction.
+
 ## **Maintaining the Course**
 
 "JavaScript Fatigue"
