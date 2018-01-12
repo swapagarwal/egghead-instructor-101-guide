@@ -88,7 +88,7 @@ If you haven't, we recommend you read the section on creating lessons to get mor
 
 ## **Lesson-00 Course Overview**
 
-The course is recorded as per the course proposal, what next?
+Your course is recorded as per the course proposal, what next?
 
 Students want to have courses summarized with descriptions of what they will learn, and why they should care. 
 
