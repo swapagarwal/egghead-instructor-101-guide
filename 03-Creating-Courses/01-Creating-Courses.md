@@ -92,7 +92,7 @@ The course is recorded as per the course proposal, what next?
 
 Students want to have courses summarized with descriptions of what they will learn, and why they should care. 
 
-To answer this, we are adding introductions to courses. The introduction should set expectations for what will be learned throughout the course and offer encouragement and let students know they "got this." 
+To answer this, we are adding an introductory style video to courses. The introduction should set expectations for what will be learned throughout the course and offer encouragement and let students know they "got this." 
 
 As you have already defined a user story and goals for the course, you have a great starting point for the introduction.
 
