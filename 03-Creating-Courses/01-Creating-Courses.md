@@ -23,7 +23,6 @@ A course will include:
 - an "enhanced transcript" that assembles all of the transcripts for a course into a usable document that allows the user to read the entire course as a book
 - the code is provided with each lesson representing its current state and has a readme describing how to execute the code if it isn't in a Plunker
 - individual lesson summaries with links, etc...
-- 
 
 If you consider this context that the user is supplied, it makes the automous course within a lesson much easier to realize. We don't have to provide audio describing the context. Avoid saying "in the previous lesson" or "in a future lesson" - just get right into the concept of the lesson you are currently teaching! It makes a much nicer course that is more concise and allows for modular learning with minimal confusion.
 
@@ -51,7 +50,6 @@ The proposal consists of 4 parts:
 - Goals
 - Summary
 - List of Lessons
-- 
 
 We'll take a look at each of these parts in more detail.
 
