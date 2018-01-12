@@ -88,13 +88,17 @@ If you haven't, we recommend you read the section on creating lessons to get mor
 
 ## **Lesson-00 Course Overview**
 
-Your course is recorded as per the course proposal, what next?
+When your course is "lesson complete" it's time to record an introduction. The introduction is a lessons that accomplishes several things for the viewer:
 
-Students want to have courses summarized with descriptions of what they will learn, and why they should care. 
+* The intro is always free to view, so a member's only course can still be summarized so anybody can see if it is something that they want/need to watch.
+* The summary explains the what, why, and how of your course.
+* The summary provides encouragement.
 
-To answer this, we are adding an introductory style video to courses. The introduction should set expectations for what will be learned throughout the course and offer encouragement and let students know they "got this." 
+The course overview video is a conversation. It's a bit of a sales pitch, to get people interested in what they are about to watch. 
 
-As you have already defined a user story and goals for the course, you have a great starting point for the introduction.
+Imagine a collegue has asked you to explain what your course is about and why they should watch it.
+
+The introductory video is your answer to them!
 
 ## **Maintaining the Course**
 
