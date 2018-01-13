@@ -100,6 +100,8 @@ Imagine a collegue has asked you to explain what your course is about and why th
 
 The introductory video is your answer to them!
 
+[![Course Overview Example](../images/screenshots/course-overview-lesson.png)](https://egghead.io/lessons/react-introducing-advanced-react-component-patterns?play=true)
+
 ## **Maintaining the Course**
 
 "JavaScript Fatigue"
