@@ -98,7 +98,7 @@ The course overview video is a conversation. It's a bit of a sales pitch, to get
 
 Imagine a collegue has asked you to explain what your course is about and why they should watch it.
 
-The introductory video is your answer to them!
+The introductory video is your answer to them! Here's an example of a well executed introductory video: 
 
 [![Course Overview Example](../images/screenshots/course-overview-lesson.png)](https://egghead.io/lessons/react-introducing-advanced-react-component-patterns?play=true)
 
