@@ -18,7 +18,7 @@ We aren't looking for that either. We want to see concise efficient knowledge tr
 
 Instructors are here to instruct. People come to egghead lessons and courses ready to be told what they need to do. We aren't making a sales pitch trying to convince them that we are correct and the technology is right for them. We are instructing them on how to do something, how to accomplish a task.
 
-We are going to demonstrate how use a feature or concept by **showing** instead of telling.
+We are going to demonstrate how to use a feature or concept by **showing** instead of telling.
 
 ![show, don't tell](https://camo.githubusercontent.com/d2ce37f4086597b37563e6c9c81d104ac836bc7a/68747470733a2f2f64337676366c703535716a6171632e636c6f756466726f6e742e6e65742f6974656d732f3136334131783379315a303332563138327433712f53637265656e25323053686f74253230323031362d30392d3139253230617425323031302e34352e3232253230414d2e706e673f763d3162373830363165)
 
