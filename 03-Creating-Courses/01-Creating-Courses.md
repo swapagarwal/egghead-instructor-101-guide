@@ -86,6 +86,22 @@ With the prep you've done above, a lot of the hard work is done for creating a c
 
 If you haven't, we recommend you read the section on creating lessons to get more details on recording screencasts. A course is a series of lessons, recorded one by one. It's like stacking bricks.
 
+## **Lesson-00 Course Overview**
+
+When your course is "lesson complete" it's time to record an introduction. The introduction is a lessons that accomplishes several things for the viewer:
+
+* The intro is always free to view, so a member's only course can still be summarized so anybody can see if it is something that they want/need to watch.
+* The summary explains the what, why, and how of your course.
+* The summary provides encouragement.
+
+The course overview video is a conversation. It's a bit of a sales pitch, to get people interested in what they are about to watch. 
+
+Imagine a collegue has asked you to explain what your course is about and why they should watch it.
+
+The introductory video is your answer to them! Here's an example of a well executed introductory video: 
+
+[![Course Overview Example](../images/screenshots/course-overview-lesson.png)](https://egghead.io/lessons/react-introducing-advanced-react-component-patterns?play=true)
+
 ## **Maintaining the Course**
 
 "JavaScript Fatigue"
