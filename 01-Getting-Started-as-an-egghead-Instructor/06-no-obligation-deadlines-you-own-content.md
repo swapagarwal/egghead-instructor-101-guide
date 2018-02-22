@@ -26,7 +26,7 @@ Publishing on egghead will give you a taste of recurring income. You don’t nee
 - Copywriting
 - …?
 
-These are skills worth learning, but they acquired through years of study and practice. 
+These are skills worth learning, but they are acquired through years of study and practice. 
 
 As an egghead instructor, you are free to focus on teaching what you know so that you can start cashing royalty checks as quickly as possible.
 
