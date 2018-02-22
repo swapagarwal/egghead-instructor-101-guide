@@ -49,7 +49,9 @@ We are experts in marketing, search engine optimization, design, development, co
 egghead is here to:
 
 🎤 Amplify your voice
+
 📈 Grow your audience
+
 💰 Get you paid for what you know
 
 You deserve all of the success that comes your way. ❤️
