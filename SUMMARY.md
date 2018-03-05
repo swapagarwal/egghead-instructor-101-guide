@@ -8,6 +8,7 @@
   * [Publish Your First egghead Lesson](01-Getting-Started-as-an-egghead-Instructor/03-Publish-your-first-egghead-lesson.md)
   * [Getting Paid for Your Lessons](01-Getting-Started-as-an-egghead-Instructor/04-getting-paid-for-your-lessons.md)
   * [egghead's Publishing Schedule](01-Getting-Started-as-an-egghead-Instructor/05-egghead-Publication-Schedule.md)
+  * [No obligations. No deadlines. You own your content.](01-Getting-Started-as-an-egghead-Instructor/06-no-obligation-deadlines-you-own-content.md)
 * [Creating Lessons]()
   * [Defining egghead Lesson Style](02-Creating-Lessons/01-defining-egghead-lesson-style.md)
   * [Thinking About Lesson Titles](02-Creating-Lessons/02-thinking-about-lesson-titles.md)
@@ -25,4 +26,3 @@
 * [Appendix]()
   * [egghead Slack Channels](99-Appendix/egghead-Slack-Channels.md)
   * [egghead Contributor Agreement](99-Appendix/egghead-contributor-agreement.md)
-
