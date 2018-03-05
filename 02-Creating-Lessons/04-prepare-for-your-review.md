@@ -11,7 +11,7 @@ The most common issues are the following:
 
 ## ** Avoid Intros and Outros **
 
-The most common review feeback is: "Cut out the intro". Generally speaking, people are going to watch more than one lesson. Greeting them and wishing them farewell is not adding anything to their experience.
+The most common review feedback is: "Cut out the intro". Generally speaking, people are going to watch more than one lesson. Greeting them and wishing them farewell is not adding anything to their experience.
 
 Please don't greet the student, introduce yourself, talk about past lessons, talk about future lessons, plug your podcast, or anything that isn't core to the lesson.
 
