@@ -111,7 +111,7 @@ The [lesson publishing queue](https://egghead.io) (visible to instructors that a
 
 This is normal.
 
-As far as coming up with your first topic goes, just think about something that would be useful to a developer. Think of a tool, a technique, or a practice that you've used in the past. You can also claim a requested lesson in [the egghead Instructor Center.](https://instructor.egghead.io) 
+As far as coming up with your first topic goes, just think about something that would be useful to a developer. Think of a tool, a technique, or a practice that you've used in the past.
 
 Please note that there is no need to worry about repeating content that might exist on egghead already. We aren't concerned with repetition at all! Often people learning new concepts appreciate seeing the same content taught with multiple approaches.
 
